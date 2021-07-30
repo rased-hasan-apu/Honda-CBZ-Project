@@ -1,0 +1,18 @@
+.Honda-bg-container{
+    background-color:  #264653;
+    
+}
+.Honda-bg-container button{
+    background-color:  #E76F51;
+    border-radius: 8px;
+    padding: 5px; 
+    width: 168px;
+    
+}
+.Honda-bg-container img{
+    height: 447px;
+    width: 552px;
+    margin-top: 155px;
+    margin-bottom: 55px;
+    
+}

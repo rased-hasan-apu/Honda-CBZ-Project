@@ -16,3 +16,21 @@
     margin-bottom: 55px;
     
 }
+span{
+    color:  #E76F51;
+    
+}
+.fa-star{
+    color: #E77C40;
+}
+.card img {
+    width: 149px;
+    height: 149px;
+}
+.Regina{
+    color: #23A6F0;
+}
+.bolder{
+    font-weight: 600;
+font-size: 14px;
+}
